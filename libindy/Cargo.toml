@@ -103,6 +103,3 @@ futures = "0.1.24"
 name = "wallet"
 harness = false
 
-
-Shell:
-sudo cargo +nightly build
