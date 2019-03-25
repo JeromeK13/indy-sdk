@@ -1,3 +1,5 @@
+cargo-features = ["edition"]
+
 [[package]]
 name = "aho-corasick"
 version = "0.6.9"
